@@ -32,7 +32,7 @@
   "schedule": ["every weekend"],
   "prCreation": "not-pending",
   "configMigration": true,
-  "platformCommit": true,
+  "platformCommit": "enabled",
   "packageRules": [
     {
       "matchSourceUrlPrefixes": ["https://github.com/"],
